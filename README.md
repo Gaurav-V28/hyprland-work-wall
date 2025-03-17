@@ -1,5 +1,5 @@
 # Hyprland-Work-Wall
-This helps to add different wallpapers on different workspaces
+This helps to add different wallpapers on different workspaces for Hyprland.
 
 # Usage
 In the current folder add the wallpapers and rename them as wi for the i-th workspace. Keep wall.py as exec-once in your config file. Load the wallpapers using load.sh. 
